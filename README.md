@@ -2,7 +2,7 @@
 
 The most "bussin'" way to check your exchange rates. Designed for the modern hustle, this converter is fast, sleek, and packed with Gen Z energy.
 
-![Preview](https://raw.githubusercontent.com/avighna28/STONKS/main/screenshot.png) (Coming soon!)
+![STONKS Preview](preview.png)
 
 ## ✨ Features
 - **Modern UI**: Dark mode with futuristic glassmorphism and neon glows.
